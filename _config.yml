@@ -1,11 +1,11 @@
 # Site settings
 title: Акита
 description: "A minimal blog."
-url: "http://www.jacoporabolini.com/emerald"
+url: ""
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: 
+  email: 
+  url: 
 
 # Build settings
 baseurl: /emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
